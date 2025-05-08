@@ -1,4 +1,3 @@
-pip install streamlit pymupdf sentence-transformers faiss-cpu
 
 import streamlit as st
 import fitz  # PyMuPDF
